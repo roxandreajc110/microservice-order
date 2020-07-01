@@ -3,9 +3,9 @@
 ## Comenzando 🚀
 
 La solución al reto planteado consta de tres microservicios: 
-microservice-order
-microservice-bill
-microservice-logistic
+*microservice-order
+*microservice-bill
+*microservice-logistic
 
 ##Tecnologías/Herramientas Usadas
 
